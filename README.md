@@ -93,10 +93,6 @@ Explore my work, projects, and more on my portfolio:
 
 ---
 
-[Bug #123](https://github.com/Alok-jaiswal/repository/issues/123) - Resolved authentication error.
-
----
-
 ## 📫 Contact Me
 - **Email**: [alokasha7620@gmail.com](mailto:alokasha7620@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aloksjaiswal](http://www.linkedin.com/in/aloksjaiswal)
