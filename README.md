@@ -68,10 +68,19 @@ Explore my work, projects, and more on my portfolio:
 
 ---
 
-![Alok's Activity Graph](https://raw.githubusercontent.com/Alok-jaiswal/github-profile-summary-cards/master/profile-summary-card-output/default/3-stats.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alok-jaiswal&theme=blueberry)
 
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alok-jaiswal&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alok-jaiswal&theme=blueberry)
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alok-jaiswal&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alok-jaiswal&theme=blueberry&utcOffset=8)
+
+---
 ## 📫 Contact Me
 - **Email**: [alokasha7620@gmail.com](mailto:alokasha7620@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aloksjaiswal](http://www.linkedin.com/in/aloksjaiswal)
