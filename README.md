@@ -73,10 +73,6 @@ Explore my work, projects, and more on my portfolio:
 
 ---
 
-![Alok's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alok-jaiswal&bg_color=ffffff&color=3333cc&line=ff9900&point=cc6600&area=true&hide_border=true)
-
----
-
 ## 📫 Contact Me
 - **Email**: [alokasha7620@gmail.com](mailto:alokasha7620@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aloksjaiswal](http://www.linkedin.com/in/aloksjaiswal)
