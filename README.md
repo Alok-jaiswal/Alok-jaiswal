@@ -15,9 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in creatin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alok-jaiswal&color=blue&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Alok-jaiswal?style=social)
-
----
-
 ![GitHub Stats](https://img.shields.io/github/stars/Alok-jaiswal?label=Stars&style=social)
 
 ---
@@ -62,6 +59,21 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in creatin
 ## 🌐 Portfolio:
 Explore my work, projects, and more on my portfolio:  
 [**My Portfolio**](https://alok-jaiswal-portfolio.onrender.com)
+
+---
+
+## 📊 GitHub Stats
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alok-jaiswal&show_icons=true&theme=radical)
+![Alok's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alok-jaiswal&bg_color=ffffff&color=3333cc&line=ff9900&point=cc6600&area=true&hide_border=true)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alok-jaiswal&color=blue)
+![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Nest.js-blue)
+
+---
+
+![Alok's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alok-jaiswal&bg_color=ffffff&color=3333cc&line=ff9900&point=cc6600&area=true&hide_border=true)
 
 ---
 
