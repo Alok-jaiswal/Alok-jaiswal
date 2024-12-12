@@ -13,6 +13,14 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in creatin
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alok-jaiswal&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Alok-jaiswal?style=social)
+
+---
+
+![GitHub Stats](https://img.shields.io/github/stars/Alok-jaiswal?label=Stars&style=social)
+
+---
 ## 💼 Work Experience
 
 ### **Software Developer | PERLA IT Pvt. Ltd.**
