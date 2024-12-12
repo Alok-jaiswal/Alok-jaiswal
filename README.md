@@ -65,11 +65,11 @@ Explore my work, projects, and more on my portfolio:
 
 ## 📊 GitHub Stats
 ![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alok-jaiswal&show_icons=true&theme=radical)
-![Alok's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alok-jaiswal&bg_color=ffffff&color=3333cc&line=ff9900&point=cc6600&area=true&hide_border=true)
-![Alok's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alok-jaiswal&bg_color=ffffff&color=3333cc&line=ff9900&point=cc6600&area=true&hide_border=true)
-![Alok's Activity Graph](https://raw.githubusercontent.com/Alok-jaiswal/github-profile-summary-cards/master/profile-summary-card-output/default/3-stats.svg)
 
 ---
+
+![Alok's Activity Graph](https://raw.githubusercontent.com/Alok-jaiswal/github-profile-summary-cards/master/profile-summary-card-output/default/3-stats.svg)
+
 ---
 
 ## 📫 Contact Me
