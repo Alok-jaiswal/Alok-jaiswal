@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alok Jaiswal
 
-🚀 **Full Stack Developer | React.js & Nest.js | 3+ Years of Experience**
+🚀 **Full Stack Developer | Software Develpoer | Frontend Developer | Backend Develper | React.js & Nest.js | 3+ Years of Experience**
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in creating responsive, user-centric web applications with expertise in front-end and back-end technologies. My work revolves around crafting high-quality solutions that combine functionality, performance, and design.
 
@@ -51,9 +51,15 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in creatin
 
 ---
 
+## 🌐 Portfolio:
+Explore my work, projects, and more on my portfolio:  
+[**My Portfolio**](https://alok-jaiswal-portfolio.onrender.com)
+
+---
+
 ## 📫 Contact Me
 - **Email**: [alokasha7620@gmail.com](mailto:alokasha7620@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aloksjaiswal](http://www.linkedin.com/in/aloksjaiswal)
 - **GitHub**: [github.com/Alok-jaiswal](https://github.com/Alok-jaiswal)
-
+  
 Let's connect and create something amazing together! 🚀
