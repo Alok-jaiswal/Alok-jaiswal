@@ -81,6 +81,22 @@ Explore my work, projects, and more on my portfolio:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alok-jaiswal&theme=blueberry&utcOffset=8)
 
 ---
+
+![Bug Hunter](https://img.shields.io/badge/Achievement-Bug%20Hunter-brightgreen)
+![Code Contributor](https://img.shields.io/badge/Contribution-Open%20Source-blue)
+
+---
+
+## 🐞 Bugs Fixed
+- Fixed API timeout issues on the backend.
+- Resolved UI rendering glitches on low-resolution devices.
+
+---
+
+[Bug #123](https://github.com/Alok-jaiswal/repository/issues/123) - Resolved authentication error.
+
+---
+
 ## 📫 Contact Me
 - **Email**: [alokasha7620@gmail.com](mailto:alokasha7620@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aloksjaiswal](http://www.linkedin.com/in/aloksjaiswal)
