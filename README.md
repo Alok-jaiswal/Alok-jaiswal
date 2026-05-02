@@ -96,7 +96,7 @@ What sets me apart: I actively use **AI tools and prompt engineering** as a core
 ### 🏢 PERLA IT Information Technology & Services Pvt. Ltd.
 **Software Developer — Full Stack** &nbsp;|&nbsp; *June 2022 – Present*
 
-> *B2B SaaS company building ERP solutions for educational institutions across Maharashtra*
+> *B2B SaaS company building ERP solutions for educational institutions across global market*
 
 - 🎯 Led development of **4 core ERP modules** (Exam, Results, Timetable, Grading) within a **25-member team** — now serving **1,000+ users across 10+ schools**
 - ⚛️ Architected a scalable **React.js + TypeScript** frontend with reusable component libraries tailored to complex ERP workflows
