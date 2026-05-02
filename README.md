@@ -1,31 +1,30 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=200&amp;section=header&amp;text=Alok%20Jaiswal&amp;fontSize=60&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20React.js%20%26%20NestJS&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%" />
+<!-- Animated Header Banner — capsule-render.vercel.app is still active -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Alok%20Jaiswal&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React.js%20%26%20NestJS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;Building+Scalable+Enterprise+Applications;AI-Powered+Development+%26+Prompt+Engineer" alt="Typing SVG" />
-</a>
+<!-- Typing animation — using readme-typing-svg.demolab.com (still active) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;Building+Scalable+Enterprise+Applications;AI-Powered+Development+%26+Prompt+Engineer" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile badges -->
+<!-- Social badges -->
 <a href="https://www.linkedin.com/in/aloksjaiswal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Alok-jaiswal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://alok-jaiswal-portfolio.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:alokasha7620@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <br/><br/>
 
+<!-- Profile views counter — komarev is reliable -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Alok-jaiswal&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -96,7 +95,7 @@ What sets me apart: I actively use **AI tools and prompt engineering** as a core
 ### 🏢 PERLA IT Information Technology & Services Pvt. Ltd.
 **Software Developer — Full Stack** &nbsp;|&nbsp; *June 2022 – Present*
 
-> *B2B SaaS company building ERP solutions for educational institutions across global market*
+> *B2B SaaS company building ERP solutions for educational institutions across Maharashtra*
 
 - 🎯 Led development of **4 core ERP modules** (Exam, Results, Timetable, Grading) within a **25-member team** — now serving **1,000+ users across 10+ schools**
 - ⚛️ Architected a scalable **React.js + TypeScript** frontend with reusable component libraries tailored to complex ERP workflows
@@ -215,10 +214,15 @@ I actively integrate AI into my development workflow in concrete ways:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alok-jaiswal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alok-jaiswal&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" width="49%" />
+<!-- github-readme-stats.vercel.app — working, using cache_seconds to reduce rate limit issues -->
+<img src="https://github-readme-stats.vercel.app/api?username=Alok-jaiswal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="Alok's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-jaiswal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9" width="49%" />
+<!-- FIXED: herokuapp is down — replaced with working Vercel alternative -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Alok-jaiswal&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" width="49%" alt="Alok's GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-jaiswal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="Top Languages"/>
 
 </div>
 
@@ -237,6 +241,6 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 <br/>
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
