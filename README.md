@@ -1,57 +1,46 @@
 <div align="center">
 
-<!-- Animated Header Banner — capsule-render.vercel.app is still active -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Alok%20Jaiswal&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React.js%20%26%20NestJS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
-
-<!-- Typing animation — using readme-typing-svg.demolab.com (still active) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;Building+Scalable+Enterprise+Applications;AI-Powered+Development+%26+Prompt+Engineer" alt="Typing SVG" />
+# Alok Jaiswal
+### Full Stack Developer · React.js & NestJS · 4+ Years
 
 <br/>
 
-<!-- Social badges -->
-<a href="https://www.linkedin.com/in/aloksjaiswal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Alok-jaiswal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://alok-jaiswal-portfolio.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:alokasha7620@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloksjaiswal/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alok-jaiswal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alok-jaiswal-portfolio.onrender.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokasha7620@gmail.com)
 
-<br/><br/>
+<br/>
 
-<!-- Profile views counter — komarev is reliable -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Alok-jaiswal&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
+<br/>
 
 ---
 
+### 📍 Nagpur, India &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to Work &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Available for Freelance
+
+---
+
+</div>
+
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** based in **Nagpur, Maharashtra** with **4+ years** of hands-on experience building enterprise-grade web applications. I've led development of **4 core ERP modules** within a **25-member team**, and my work currently serves **1,000+ users across 10+ schools**.
+I'm a **Full Stack Developer** with **4+ years** of experience building enterprise-grade web applications that scale. I've led development of **4 core ERP modules** within a **25-member engineering team** — serving **1,000+ users across 10+ schools** in production.
 
-I don't just write code — I think in systems. Whether it's architecting a document management pipeline, building a dynamic form engine from scratch, or integrating AI APIs to make development smarter and faster, I focus on solutions that scale, perform, and last.
+I don't just write code — I think in systems. Whether it's a document management pipeline with OCR, a dynamic form engine, or role-based auth — I build things that are maintainable a year from now, not just functional today.
 
-What sets me apart: I actively use **AI tools and prompt engineering** as a core part of my workflow — not as a crutch, but as a genuine multiplier for speed, quality, and problem-solving.
-
-```
-📍 Nagpur, Maharashtra    💼 Open to Opportunities    ⚡ Available for Freelance
-```
+What sets me apart: I actively use **AI tools and prompt engineering** as a core part of my engineering workflow — not as a shortcut, but as a genuine multiplier for speed, quality, and problem-solving.
 
 ---
 
 ## 🚀 What I Bring to the Table
 
 | Capability | Details |
-|---|---|
-| 🎨 **Frontend** | React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS |
+|:---|:---|
+| 🎨 **Frontend** | React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Bootstrap |
 | ⚙️ **Backend** | Node.js, Express.js, NestJS — microservices & REST APIs |
-| 🗄️ **Database** | PostgreSQL (pgAdmin), MongoDB — schema design & optimization |
+| 🗄️ **Database** | PostgreSQL (pgAdmin), MongoDB — schema design & query optimization |
 | 🤖 **AI Integration** | Claude API, OpenAI API, prompt engineering, AI-assisted workflows |
 | 🔐 **Auth & Security** | JWT, Refresh Tokens, Role-Based Access Control (RBAC) |
 | 🛠️ **Tools** | Git/GitHub, Postman, OCR integration, Third-Party APIs |
@@ -67,7 +56,7 @@ What sets me apart: I actively use **AI tools and prompt engineering** as a core
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -75,13 +64,13 @@ What sets me apart: I actively use **AI tools and prompt engineering** as a core
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**AI & Tools**
+**AI & Developer Tools**
 
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -90,32 +79,58 @@ What sets me apart: I actively use **AI tools and prompt engineering** as a core
 
 ---
 
+## 📊 My Numbers
+
+<div align="center">
+
+![Years](https://img.shields.io/badge/Experience-4%2B%20Years-4FC3F7?style=for-the-badge)
+![Users](https://img.shields.io/badge/Production%20Users-1%2C000%2B-10b981?style=for-the-badge)
+![Schools](https://img.shields.io/badge/Schools%20Served-10%2B-f472b6?style=for-the-badge)
+![Team](https://img.shields.io/badge/Team%20Led-25%20Engineers-a78bfa?style=for-the-badge)
+![Modules](https://img.shields.io/badge/ERP%20Modules-4%20Core-C9A84C?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Live%20Projects-6%2B-E0234E?style=for-the-badge)
+
+</div>
+
+---
+
 ## 💼 Work Experience
 
 ### 🏢 PERLA IT Information Technology & Services Pvt. Ltd.
-**Software Developer — Full Stack** &nbsp;|&nbsp; *June 2022 – Present*
+**Software Developer — Full Stack** &nbsp;|&nbsp; `June 2022 – Present`
 
 > *B2B SaaS company building ERP solutions for educational institutions across Maharashtra*
 
-- 🎯 Led development of **4 core ERP modules** (Exam, Results, Timetable, Grading) within a **25-member team** — now serving **1,000+ users across 10+ schools**
-- ⚛️ Architected a scalable **React.js + TypeScript** frontend with reusable component libraries tailored to complex ERP workflows
-- 🔧 Built high-performance **NestJS microservices** and REST APIs with optimized server-side logic and efficient query design
+- 🎯 Led development of **4 core ERP modules** (Exam, Results, Timetable, Grading) within a **25-member team** — serving **1,000+ users across 10+ schools**
+- ⚛️ Architected scalable **React.js + TypeScript** frontend with reusable component libraries for complex ERP workflows
+- 🔧 Built high-performance **NestJS microservices** and REST APIs with optimized server-side logic
 - 🗄️ Designed and tuned **PostgreSQL schemas** using pgAdmin for data-heavy ERP operations
 - 📄 Implemented a full **Document Management System** with OCR processing, auto-classification, duplicate detection, and versioning
-- 🤖 Integrated **AI APIs (Claude, OpenAI)** to accelerate feature delivery and add intelligent capabilities to the application
-- ✍️ Applied **structured prompt engineering** to diagnose complex bugs faster — crafting context-rich prompts that reduced debugging cycles across the team
-- 🔗 Leveraged **AI agent workflows** for research, code generation, and technical problem-solving — consistently turning AI into a productivity multiplier
+- 🤖 Integrated **AI APIs (Claude, OpenAI)** to accelerate feature delivery and add intelligent capabilities
+- ✍️ Applied **structured prompt engineering** to diagnose complex bugs — reducing debugging cycles across the team
+- 🔗 Leveraged **AI agent workflows** for research, code generation, and technical problem-solving
+
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
 ### 🎨 The Space Element Design Studio and Development Lab
-**Frontend Developer** &nbsp;|&nbsp; *Nov 2021 – May 2022*
+**Frontend Developer** &nbsp;|&nbsp; `Nov 2021 – May 2022`
 
 > *Digital design and development studio focused on responsive web experiences*
 
-- ⚡ Optimized caching strategies, cutting **page load times by 50%** and boosting **user engagement by 25%**
+- ⚡ Optimized caching strategies — cut **page load times by 50%** and boosted **user engagement by 25%**
 - 🤝 Led cross-functional collaboration that reduced **time-to-market by 20%**
 - 🛠️ Built responsive websites using HTML, CSS, SCSS, React.js, and Redux
+
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
@@ -126,7 +141,7 @@ What sets me apart: I actively use **AI tools and prompt engineering** as a core
 <td width="50%" valign="top">
 
 ### 🏫 School ERP Management System
-Enterprise ERP platform serving **1,000+ users** across **10+ schools**
+Enterprise ERP platform serving **1,000+ users** across **10+ schools** in production
 
 **Modules:** Exam Management · Result Processing · Timetable Scheduling · Grading
 
@@ -151,7 +166,7 @@ Full document lifecycle — OCR extraction, auto-classification, duplicate detec
 <td width="50%" valign="top">
 
 ### 📋 Dynamic Form Builder
-Drag-and-drop form builder supporting text, dropdowns, checkboxes, image uploads, date pickers with real-time preview & submission flows
+Drag-and-drop form builder — text, dropdowns, checkboxes, image uploads, date pickers with real-time preview & submission
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -161,12 +176,12 @@ Drag-and-drop form builder supporting text, dropdowns, checkboxes, image uploads
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Role-Based Auth System
-JWT authentication with refresh token rotation and granular RBAC securing all API endpoints and frontend routes
+### 🔐 Role-Based Authentication System
+JWT auth with refresh token rotation and granular RBAC securing all API endpoints and frontend routes
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
 </tr>
@@ -174,7 +189,7 @@ JWT authentication with refresh token rotation and granular RBAC securing all AP
 <td width="50%" valign="top">
 
 ### ✂️ Tailor Order Management *(In Progress)*
-Customer order management, tailor assignments, delivery tracking with filtering and date-based reporting
+Customer orders, tailor assignments, delivery tracking with filtering and date-based reporting
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -184,7 +199,7 @@ Customer order management, tailor assignments, delivery tracking with filtering 
 <td width="50%" valign="top">
 
 ### 📝 Blog Application
-Full-featured blog with Markdown editor, tag management, post preview and complete CRUD API integration
+Markdown editor, tag management, post preview and CRUD API integration with server-side rendering
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -197,34 +212,23 @@ Full-featured blog with Markdown editor, tag management, post preview and comple
 
 ## 🤖 AI-Augmented Development
 
-One thing I genuinely believe in: **AI is a skill, not just a tool.**
+> **AI is a skill, not just a tool.**
 
-I actively integrate AI into my development workflow in concrete ways:
-
-- 🔌 **AI API Integration** — Built features using Claude and OpenAI APIs, embedding intelligent capabilities directly into production applications
-- 🧠 **Prompt Engineering** — I write structured, context-rich prompts to diagnose complex bugs, generate boilerplate, and explore architectural decisions faster
-- 🤝 **AI Agent Workflows** — Use AI agents to handle research, documentation, and code review tasks that used to take hours
-- ⚡ **Developer Productivity** — Reduced debugging cycles significantly by knowing exactly how to communicate problems to AI systems and extract production-quality solutions
+| | Skill | How I Use It |
+|:---:|:---|:---|
+| 🔌 | **AI API Integration** | Built production features using Claude & OpenAI APIs — embedding intelligent capabilities into enterprise apps |
+| 🧠 | **Prompt Engineering** | Structured, context-rich prompts to diagnose bugs, generate boilerplate, and explore architecture decisions |
+| 🤝 | **AI Agent Workflows** | Research, documentation, and code review — turning hours into minutes without sacrificing quality |
+| ⚡ | **AI-Assisted Debugging** | Systematic problem framing that produces production-ready solutions from AI systems |
 
 > *"The best developers in the next 5 years won't be replaced by AI — they'll be the ones who learned to think alongside it."*
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-<div align="center">
-
-<!-- github-readme-stats.vercel.app — working, using cache_seconds to reduce rate limit issues -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alok-jaiswal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="Alok's GitHub Stats"/>
-
-<!-- FIXED: herokuapp is down — replaced with working Vercel alternative -->
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Alok-jaiswal&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" width="49%" alt="Alok's GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-jaiswal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="Top Languages"/>
-
-</div>
+**Bachelor of Science (B.Sc.) in Computer Science**
+Shri Mathuradas Mohota College of Science, Nagpur &nbsp;|&nbsp; `2018 – 2021`
 
 ---
 
@@ -234,13 +238,14 @@ I actively integrate AI into my development workflow in concrete ways:
 
 I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge)](https://alok-jaiswal-portfolio.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aloksjaiswal/)
-[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-EA4335?style=for-the-badge)](mailto:alokasha7620@gmail.com)
-
 <br/>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Work-FF5722?style=for-the-badge)](https://alok-jaiswal-portfolio.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge)](https://www.linkedin.com/in/aloksjaiswal/)
+[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge)](mailto:alokasha7620@gmail.com)
+
+<br/><br/>
+
+*© 2025 Alok Jaiswal · Built with precision in Nagpur, India 🇮🇳*
 
 </div>
