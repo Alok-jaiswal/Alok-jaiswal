@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <linearGradient id="fg" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#0F2027"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#fg)"/>
+  <path d="M0,0 Q225,48 450,26 Q675,4 900,38 L900,0 Z" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="80" cy="85" r="2" fill="rgba(79,195,247,0.3)"/>
+  <circle cx="820" cy="35" r="2" fill="rgba(79,195,247,0.3)"/>
+  <circle cx="450" cy="108" r="1.5" fill="rgba(255,255,255,0.15)"/>
+  <line x1="290" y1="65" x2="610" y2="65" stroke="rgba(79,195,247,0.12)" stroke-width="0.6"/>
+  <text x="450" y="53" font-family="Georgia,serif" font-size="16" font-style="italic"
+        fill="rgba(255,255,255,0.82)" text-anchor="middle">"Building digital excellence, one commit at a time"</text>
+  <text x="450" y="85" font-family="Arial,sans-serif" font-size="12"
+        fill="rgba(255,255,255,0.36)" text-anchor="middle">© 2025 Alok Jaiswal · Nagpur, India</text>
+</svg>

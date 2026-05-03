@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190">
+  <rect width="900" height="190" fill="#0D1117" rx="12"/>
+  <rect width="898" height="188" x="1" y="1" fill="none" rx="11" stroke="#30363D" stroke-width="1"/>
+  <rect width="900" height="36" fill="rgba(48,54,61,0.45)" rx="12"/>
+  <rect width="900" height="18" y="18" fill="rgba(48,54,61,0.45)"/>
+  <text x="450" y="23" font-family="Arial,sans-serif" font-size="11" font-weight="bold"
+        fill="#4FC3F7" text-anchor="middle" letter-spacing="2">TECHNICAL SKILLS</text>
+
+  <text x="112" y="60" font-family="Arial,sans-serif" font-size="10" fill="#8B949E" text-anchor="middle" letter-spacing="1">FRONTEND</text>
+  <text x="112" y="83" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">React.js</text>
+  <rect x="62" y="88" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="62" y="88" width="95" height="3" rx="1.5" fill="#61DAFB" opacity="0.75"/>
+  <text x="112" y="108" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">TypeScript</text>
+  <rect x="62" y="113" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="62" y="113" width="88" height="3" rx="1.5" fill="#3178C6" opacity="0.75"/>
+  <text x="112" y="133" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Next.js</text>
+  <rect x="62" y="138" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="62" y="138" width="82" height="3" rx="1.5" fill="#E6EDF3" opacity="0.45"/>
+  <text x="112" y="158" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Redux Toolkit</text>
+  <rect x="62" y="163" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="62" y="163" width="85" height="3" rx="1.5" fill="#764ABC" opacity="0.75"/>
+
+  <line x1="225" y1="45" x2="225" y2="178" stroke="#30363D" stroke-width="1"/>
+
+  <text x="337" y="60" font-family="Arial,sans-serif" font-size="10" fill="#8B949E" text-anchor="middle" letter-spacing="1">BACKEND</text>
+  <text x="337" y="83" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">NestJS</text>
+  <rect x="287" y="88" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="287" y="88" width="88" height="3" rx="1.5" fill="#E0234E" opacity="0.75"/>
+  <text x="337" y="108" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Node.js</text>
+  <rect x="287" y="113" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="287" y="113" width="85" height="3" rx="1.5" fill="#339933" opacity="0.75"/>
+  <text x="337" y="133" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Express.js</text>
+  <rect x="287" y="138" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="287" y="138" width="80" height="3" rx="1.5" fill="#E6EDF3" opacity="0.4"/>
+  <text x="337" y="158" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">REST APIs</text>
+  <rect x="287" y="163" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="287" y="163" width="90" height="3" rx="1.5" fill="#4FC3F7" opacity="0.75"/>
+
+  <line x1="450" y1="45" x2="450" y2="178" stroke="#30363D" stroke-width="1"/>
+
+  <text x="562" y="60" font-family="Arial,sans-serif" font-size="10" fill="#8B949E" text-anchor="middle" letter-spacing="1">DATABASE</text>
+  <text x="562" y="83" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">PostgreSQL</text>
+  <rect x="512" y="88" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="512" y="88" width="85" height="3" rx="1.5" fill="#4169E1" opacity="0.75"/>
+  <text x="562" y="108" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">MongoDB</text>
+  <rect x="512" y="113" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="512" y="113" width="80" height="3" rx="1.5" fill="#47A248" opacity="0.75"/>
+  <text x="562" y="133" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Schema Design</text>
+  <rect x="512" y="138" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="512" y="138" width="88" height="3" rx="1.5" fill="#F472B6" opacity="0.6"/>
+  <text x="562" y="158" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Query Optim.</text>
+  <rect x="512" y="163" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="512" y="163" width="82" height="3" rx="1.5" fill="#F472B6" opacity="0.5"/>
+
+  <line x1="675" y1="45" x2="675" y2="178" stroke="#30363D" stroke-width="1"/>
+
+  <text x="787" y="60" font-family="Arial,sans-serif" font-size="10" fill="#8B949E" text-anchor="middle" letter-spacing="1">AI &amp; TOOLS</text>
+  <text x="787" y="83" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Prompt Eng.</text>
+  <rect x="737" y="88" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="737" y="88" width="90" height="3" rx="1.5" fill="#A78BFA" opacity="0.75"/>
+  <text x="787" y="108" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">Claude API</text>
+  <rect x="737" y="113" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="737" y="113" width="85" height="3" rx="1.5" fill="#CC785C" opacity="0.75"/>
+  <text x="787" y="133" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">OpenAI API</text>
+  <rect x="737" y="138" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="737" y="138" width="85" height="3" rx="1.5" fill="#412991" opacity="0.75"/>
+  <text x="787" y="158" font-family="Arial,sans-serif" font-size="12" fill="#E6EDF3" text-anchor="middle">AI Debugging</text>
+  <rect x="737" y="163" width="100" height="3" rx="1.5" fill="#21262D"/>
+  <rect x="737" y="163" width="80" height="3" rx="1.5" fill="#A78BFA" opacity="0.5"/>
+</svg>

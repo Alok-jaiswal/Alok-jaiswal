@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="200" fill="url(#hg)"/>
+  <path d="M0,0 Q225,45 450,22 Q675,0 900,32 L900,0 Z" fill="rgba(255,255,255,0.05)"/>
+  <path d="M0,200 Q225,162 450,180 Q675,200 900,168 L900,200 Z" fill="rgba(255,255,255,0.04)"/>
+  <circle cx="55" cy="38" r="2.5" fill="rgba(79,195,247,0.45)"/>
+  <circle cx="845" cy="162" r="2.5" fill="rgba(79,195,247,0.45)"/>
+  <circle cx="820" cy="48" r="3.5" fill="rgba(79,195,247,0.18)"/>
+  <circle cx="78" cy="158" r="3.5" fill="rgba(79,195,247,0.18)"/>
+  <circle cx="190" cy="172" r="1.8" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="710" cy="28" r="1.8" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="450" cy="12" r="1.5" fill="rgba(79,195,247,0.3)"/>
+  <line x1="340" y1="115" x2="560" y2="115" stroke="rgba(79,195,247,0.18)" stroke-width="0.6"/>
+  <text x="450" y="94" font-family="Georgia,serif" font-size="56" font-weight="bold"
+        fill="white" text-anchor="middle" filter="url(#glow)" letter-spacing="3">Alok Jaiswal</text>
+  <text x="450" y="133" font-family="Arial,sans-serif" font-size="17"
+        fill="#4FC3F7" text-anchor="middle" letter-spacing="1.5">Full Stack Developer | React.js &amp; NestJS</text>
+  <text x="450" y="162" font-family="Arial,sans-serif" font-size="12"
+        fill="rgba(255,255,255,0.48)" text-anchor="middle" letter-spacing="0.5">4+ Years Experience · Enterprise ERP · AI-Powered Development · Nagpur, India</text>
+</svg>
